@@ -1,0 +1,9 @@
+Mijn Kledingkast – versie 16V (voorzichtig testen)
+
+1. De website op GitHub Pages blijft ongewijzigd totdat je zelf de bestanden uploadt.
+2. Maak eerst een volledige back-up in de werkende herstelversie 14R en bewaar die in iCloud.
+3. Test deze versie met een aparte preview/browser, herstel daarin eerst de back-up en controleer 290 kledingstukken en fotos.
+4. Bij problemen: gebruik versie 14R en de oorspronkelijke back-up.
+5. Zet geen persoonlijke JSON-back-up met fotos op GitHub.
+
+GitHub Pages synchroniseert geen persoonsgegevens tussen apparaten.
